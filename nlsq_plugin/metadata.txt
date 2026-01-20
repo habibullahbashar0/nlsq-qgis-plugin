@@ -1,0 +1,14 @@
+[general]
+name=Natural Language Spatial Query
+description=Execute spatial queries using natural language
+about=Execute spatial queries using natural language. This plugin allows users to interact with QGIS layers using plain English commands.
+version=1.0.0
+qgisMinimumVersion=3.0
+author=Your Name
+email=your.email@example.com
+homepage=https://github.com/yourusername/nlsq-qgis-plugin
+tracker=https://github.com/yourusername/nlsq-qgis-plugin/issues
+repository=https://github.com/yourusername/nlsq-qgis-plugin
+tags=natural language, spatial query, analysis, nlp
+category=Analysis
+icon=icon.png
