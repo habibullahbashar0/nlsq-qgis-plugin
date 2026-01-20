@@ -5,7 +5,7 @@ import os
 # Add parent directory to path to import plugin modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from nlsq_plugin.query_processor import QueryProcessor
+from query_processor import QueryProcessor
 
 class TestQueryProcessor(unittest.TestCase):
     def test_parse_simple_query(self):
